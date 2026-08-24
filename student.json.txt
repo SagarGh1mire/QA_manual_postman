@@ -1,0 +1,24 @@
+```json
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sagar Ghimire",
+      "age": 22,
+      "course": "BBA"
+    },
+    {
+      "id": 2,
+      "name": "Ram Sharma",
+      "age": 21,
+      "course": "BCA"
+    },
+    {
+      "id": 3,
+      "name": "Hari Thapa",
+      "age": 23,
+      "course": "BIM"
+    }
+  ]
+}
+```
